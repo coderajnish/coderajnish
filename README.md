@@ -1,8 +1,3 @@
-<!-- CYBER HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=RAJNISH%20&fontSize=42&fontColor=00ff00&animation=fadeIn" />
-</p>
-
 <!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Booting+System...;Initializing+Full-Stack+Modules...;Loading+DSA+Core...;System+Online.&center=true&width=700&height=60&color=00ff00&vCenter=true&pause=1000&size=26" />
