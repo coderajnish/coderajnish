@@ -9,9 +9,7 @@
 
 👦 ABOUT ME
 
-
-I’m Rajnish Kushwaha, a Computer Science student focused on AI, backend engineering, and algorithmic problem-solving.  
-Currently building full-stack applications while strengthening core system design fundamentals.
+I’m Rajnish Kushwaha, a Computer Science student focused on AI, backend engineering, and algorithmic problem-solving. Currently building full-stack applications while strengthening core system design fundamentals.
 
 ## 🖥 SYSTEM CAPABILITIES
 
