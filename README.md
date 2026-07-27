@@ -4,7 +4,7 @@
 
 <!-- DARK CYBER GRID ANIMATION (lighter than GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="200"/>
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="75"/>
 </p>
 
 
