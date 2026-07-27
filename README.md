@@ -26,12 +26,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
 
 ---------------------------------------------------------
-USER: ............. Rajnish Kushwaha
-EMAIL: ............ rajnishkushwaha73075@gmail.com
-EDUCATION: ........ B.Tech – Computer Science (2023–2027)
-FOCUS: ............ Full-Stack Development | DSA
-STATUS: ........... Actively Building & Learning
-LOCATION: ......... Uttar Pradesh, India
+
 ---------------------------------------------------------
 ```
 
