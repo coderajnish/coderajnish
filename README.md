@@ -1,13 +1,18 @@
-<!-- TYPING INTRO -->
+<!-- CYBER TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Booting+System...;Initializing+Full-Stack+Modules...;Loading+DSA+Core...;System+Online.&center=true&width=700&height=60&color=00ff00&vCenter=true&pause=1000&size=26" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Booting+System...;Initializing+Full-Stack+Modules...;Loading...;System+Online." />
+</p>
+
+<!-- CLEAN CYBER DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=5&section=header" />
 </p>
 
 ---
 
-<!-- MATRIX RAIN -->
+<!-- DARK CYBER GRID ANIMATION (lighter than GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="400"/>
 </p>
 
 ---
@@ -19,8 +24,14 @@
 ██╔══██╗██╔══██║██   ██║██║╚██╗██║██║╚════██║██╔══██║
 ██║  ██║██║  ██║╚█████╔╝██║ ╚████║██║███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-
 ```
+
+---
+
+<!-- CLEAN CYBER DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=5&section=header" />
+</p>
 
 ---
 
@@ -35,10 +46,12 @@
 ## 📊 CONTRIBUTION ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderajnish&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderajnish&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" />
 </p>
 
 ---
 
----
-
+<!-- FINAL CYBER FOOTER LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=5&section=footer" />
+</p>
