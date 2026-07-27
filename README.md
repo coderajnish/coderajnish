@@ -7,14 +7,6 @@
   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="75"/>
 </p>
 
-
-<!-- CLEAN CYBER DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=5&section=header" />
-</p>
-
----
-
 ## 🖥 SYSTEM CAPABILITIES
 
 <p align="center">
