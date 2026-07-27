@@ -1,11 +1,10 @@
 <!-- CYBER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=RAJNISH%20KUSHWAHA&fontSize=42&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=RAJNISH%20KUSHWAHA&fontSize=38&fontColor=00ff00&animation=fadeIn" />
 </p>
 
-<!-- GLITCH TERMINAL INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Booting+System...;Initializing+Full-Stack+Modules...;Loading+DSA+Core...;System+Online.&center=true&width=600&height=50&color=00ff00&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Booting+System...;Initializing+Modules...;Loading+Full-Stack+Core...;System+Online.&center=true&width=600&height=45&color=00ff00&vCenter=true&pause=1000&size=20" />
 </p>
 
 ---
@@ -51,7 +50,7 @@ LOCATION: ......... Uttar Pradesh, India
    ├── RESTful API (Node + Express)
    ├── MongoDB Integration
    ├── Authentication & Role-Based Access
-   └── Scalable Modular Architecture
+   └── Modular Scalable Backend
 
 2. Online Coding Platform
    ├── Secure Login System
@@ -85,7 +84,7 @@ Computer Networks
 ## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -108,7 +107,7 @@ VS Code | Postman
 
 ---
 
-## 🔓 ACCESS
+## 🔐 ACCESS
 
 ```bash
 > contact --email
@@ -118,5 +117,5 @@ rajnishkushwaha73075@gmail.com
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=80&section=footer" />
 </p>
