@@ -8,15 +8,7 @@
 
 ---
 
-```text
-Name: ............. Rajnish Kushwaha
-Email: ............ rajnishkushwaha73075@gmail.com
-Education: ........ B.Tech – Computer Science (2023–2027)
-Focus: ............ Full-Stack Development & DSA
-Location: ......... Uttar Pradesh, India
-```
 
----
 
 ## 🚀 Projects
 
