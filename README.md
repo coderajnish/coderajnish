@@ -45,11 +45,5 @@
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderajnish/coderajnish/main/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
