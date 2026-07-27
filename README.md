@@ -1,6 +1,6 @@
 <!-- CYBER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=RAJNISH%20KUSHWAHA&fontSize=42&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=RAJNISH%20&fontSize=42&fontColor=00ff00&animation=fadeIn" />
 </p>
 
 <!-- TYPING INTRO -->
