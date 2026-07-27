@@ -1,3 +1,15 @@
+<!-- CYBER HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=RAJNISH%20KUSHWAHA&fontSize=42&fontColor=00ff00&animation=fadeIn" />
+</p>
+
+<!-- GLITCH TERMINAL INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Booting+System...;Initializing+Full-Stack+Modules...;Loading+DSA+Core...;System+Online.&center=true&width=600&height=50&color=00ff00&vCenter=true&pause=1000&size=22" />
+</p>
+
+---
+
 ```text
 ██████╗  █████╗      ██╗███╗   ██╗██╗███████╗██╗  ██╗
 ██╔══██╗██╔══██╗     ██║████╗  ██║██║██╔════╝██║  ██║
@@ -7,65 +19,104 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
 
 ---------------------------------------------------------
-Name: ............. Rajnish Kushwaha
-Email: ............ rajnishkushwaha73075@gmail.com
-Education: ........ B.Tech – Computer Science (2023–2027)
-Focus: ............ Full-Stack Development | DSA
-Location: ......... Uttar Pradesh, India
+USER: ............. Rajnish Kushwaha
+EMAIL: ............ rajnishkushwaha73075@gmail.com
+EDUCATION: ........ B.Tech – Computer Science (2023–2027)
+FOCUS: ............ Full-Stack Development | DSA
+STATUS: ........... Actively Building & Learning
+LOCATION: ......... Uttar Pradesh, India
 ---------------------------------------------------------
 ```
 
 ---
 
-## 🛠 PROJECTS
+## 🖥 SYSTEM CAPABILITIES
 
-```
-[1] E-Commerce Web Application (MERN Stack)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00ff00?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-00ff00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-00ff00?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-00ff00?style=for-the-badge&logo=mongodb&logoColor=black" />
+</p>
 
-• Full-stack application with authentication
-• RESTful API design using Node.js & Express.js
-• MongoDB integration with role-based access control
-• Modular backend architecture for scalability
+---
+
+## 📂 PROJECT DIRECTORY
+
+```bash
+> ls projects/
+
+1. E-Commerce Web Application (MERN)
+   ├── RESTful API (Node + Express)
+   ├── MongoDB Integration
+   ├── Authentication & Role-Based Access
+   └── Scalable Modular Architecture
+
+2. Online Coding Platform
+   ├── Secure Login System
+   ├── Submission Tracking APIs
+   ├── Structured Database Schema
+   └── Backend System Design
+
+3. Predictive ML Model (Python)
+   ├── Regression & Classification
+   ├── Feature Engineering
+   ├── Cross-Validation
+   └── Performance Evaluation
 ```
 
 ---
 
-```
-[2] Online Coding Platform
+## 🧠 CORE SYSTEM MODULES
 
-• Secure login and authentication system
-• Backend APIs for submission tracking
-• Structured database schema design
-```
+```bash
+> cat core_modules.txt
 
----
-
-```
-[3] Predictive Model using Machine Learning (Python)
-
-• Regression and classification using Scikit-learn
-• Data preprocessing and feature selection
-• Model evaluation using standard ML metrics
+Data Structures & Algorithms
+Object-Oriented Programming
+DBMS
+Operating Systems
+Computer Networks
 ```
 
 ---
 
-## 🧠 TECH STACK
+## 🐍 CONTRIBUTION MATRIX
 
-```
-Languages: ........ Python | C++ | JavaScript
-Backend: .......... Node.js | Express
-Databases: ........ MongoDB | MySQL
-Tools: ............ Git | GitHub | Postman | VS Code
-Core CS: .......... DSA | OOPS | DBMS | OS | CN
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ TERMINAL STATUS
+
+```bash
+> solved_problems
+150+ DSA Problems
+
+> key_algorithms
+DFS | BFS | Binary Search | Recursion | Dynamic Programming
+
+> version_control
+Git + GitHub
+
+> development_environment
+VS Code | Postman
 ```
 
 ---
 
-```
-> status
-Currently building, solving DSA problems, and improving system design skills.
+## 🔓 ACCESS
 
-> goal
-To grow as a software engineer and build scalable systems.
+```bash
+> contact --email
+rajnishkushwaha73075@gmail.com
 ```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=100&section=footer" />
+</p>
