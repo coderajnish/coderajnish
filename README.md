@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="75"/>
 </p>
 
+👦 ABOUT ME
+
 ## 🖥 SYSTEM CAPABILITIES
 
 <p align="center">
